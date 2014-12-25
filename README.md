@@ -9,7 +9,7 @@ The application showing how to use Spring Boot with Spring Security for common n
 * URL-based security
 * Method-level security
 
-See the [Spring Boot Security Application](http://kielczewski.eu/12/2014/spring-boot-security-application/) article for
+See the [Spring Boot Security Application](http://kielczewski.eu/2014/12/spring-boot-security-application/) article for
 commentary.
 
 Requirements
